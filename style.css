@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #544454;
+  font-family: consolas;
+  color: white;
+}
+
+body {
+  background-color: #645464;
+}
+
+.frame-container {
+  margin: auto;
+  /*Center align frame-container*/
+  width: 90vw;
+  /*viewport width: 90vw -> 90% viewport (viewport = webpage) */
+  height: 65vh;
+  /*viewport height: 65vh -> 65% viewport */
+}
+
+button {
+  font-family: consolas;
+  font-size: 1.1em;
+  color: white;
+  border: 2px solid white;
+  background-color: #645464;
+  border-radius: 7.5%;
+  font-weight: 550;
+  cursor: pointer;
+}
+
+
+/*Color palette
+Rum: #7C6484
+Mine Shaft: #343434
+Old Lavender: #645464
+Don Juan: #544454
+*/
