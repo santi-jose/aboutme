@@ -5,9 +5,7 @@
 ## Los Angeles, California
 ### Software Engineer
 `console.log("Hello World!")`
-<button name="button">Click me</button>
 
-
-[Purgatory](https://github.com/santi-jose/aboutme/blob/main/game.html)|[Unemployed](https://github.com/santi-jose/aboutme/blob/main/film.html)
+[Purgatory](https://github.com/santi-jose/aboutme/blob/main/game.html) | [Unemployed](https://github.com/santi-jose/aboutme/blob/main/film.html)
 
 `Dark`
