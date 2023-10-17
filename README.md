@@ -1,5 +1,6 @@
 
-![Jose Luis Santiago Graduation headshot](https://raw.githubusercontent.com/santi-jose/aboutme/main/assets/Graduation_parents%20(2).jpg)
+<img width=25% src="https://raw.githubusercontent.com/santi-jose/aboutme/main/assets/Graduation_parents%20(2).jpg" alt="Jose Luis Santiago Graduation headshot">
+
 # Jose Luis Santiago
 ## Los Angeles, California
 ### Software Engineer
