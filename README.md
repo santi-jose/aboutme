@@ -1,5 +1,4 @@
 
-<div style="margin: auto;">
 <img style="width: 25%; margin: auto;" src="https://raw.githubusercontent.com/santi-jose/aboutme/main/assets/Graduation_parents%20(2).jpg" alt="Jose Luis Santiago Graduation headshot">
 
 # Jose Luis Santiago
@@ -10,4 +9,3 @@
 [Purgatory]()|[Unemployed]()
 
 `Dark`
-</div>
