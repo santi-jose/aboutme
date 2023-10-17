@@ -5,5 +5,7 @@
 ## Los Angeles, California
 ### Software Engineer
 `console.log("Hello World!")`
+
 [Purgatory]()|[Unemployed]()
+
 `Dark`
